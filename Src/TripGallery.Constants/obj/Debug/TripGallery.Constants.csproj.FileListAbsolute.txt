@@ -1,0 +1,6 @@
+C:\Projects\TripGallery\Src\TripGallery.Constants\bin\Debug\TripGallery.Constants.dll
+C:\Projects\TripGallery\Src\TripGallery.Constants\bin\Debug\TripGallery.Constants.pdb
+C:\Projects\TripGallery\Src\TripGallery.Constants\obj\Debug\TripGallery.Constants.csprojResolveAssemblyReference.cache
+C:\Projects\TripGallery\Src\TripGallery.Constants\obj\Debug\TripGallery.Constants.csproj.CoreCompileInputs.cache
+C:\Projects\TripGallery\Src\TripGallery.Constants\obj\Debug\TripGallery.Constants.dll
+C:\Projects\TripGallery\Src\TripGallery.Constants\obj\Debug\TripGallery.Constants.pdb

@@ -1,0 +1,10 @@
+C:\Projects\TripGallery\Src\TripCompany.Repository\bin\Debug\TripCompany.Repository.dll
+C:\Projects\TripGallery\Src\TripCompany.Repository\bin\Debug\TripCompany.Repository.pdb
+C:\Projects\TripGallery\Src\TripCompany.Repository\bin\Debug\Microsoft.Owin.FileSystems.dll
+C:\Projects\TripGallery\Src\TripCompany.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\TripGallery\Src\TripCompany.Repository\bin\Debug\Microsoft.Owin.FileSystems.xml
+C:\Projects\TripGallery\Src\TripCompany.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\TripGallery\Src\TripCompany.Repository\obj\Debug\TripCompany.Repository.csprojResolveAssemblyReference.cache
+C:\Projects\TripGallery\Src\TripCompany.Repository\obj\Debug\TripCompany.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\TripGallery\Src\TripCompany.Repository\obj\Debug\TripCompany.Repository.dll
+C:\Projects\TripGallery\Src\TripCompany.Repository\obj\Debug\TripCompany.Repository.pdb
