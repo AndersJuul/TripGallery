@@ -136,7 +136,7 @@ namespace TripCompany.IdentityServer
                 AuthenticationType = "windows",
                 Caption = "Windows",
                 SignInAsAuthenticationType = signInAsType,
-                MetadataAddress = "https://localhost:44330/",
+                MetadataAddress = "https://localhost/Ajf.WSFederationServer/",
                 Wtrealm = "urn:win"
 
             };

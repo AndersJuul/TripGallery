@@ -12,7 +12,7 @@ namespace TripGallery.API.Controllers
 {
 
 
-    [Authorize]
+    //[Authorize]
     [EnableCors("https://localhost:44316", "*", "GET, POST, PATCH")]
     public class TripsController : ApiController
     {
