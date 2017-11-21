@@ -1,6 +1,0 @@
-C:\Projects\TripGallery\Src\TripGallery.DTO\bin\Debug\TripGallery.DTO.dll
-C:\Projects\TripGallery\Src\TripGallery.DTO\bin\Debug\TripGallery.DTO.pdb
-C:\Projects\TripGallery\Src\TripGallery.DTO\obj\Debug\TripGallery.DTO.csprojResolveAssemblyReference.cache
-C:\Projects\TripGallery\Src\TripGallery.DTO\obj\Debug\TripGallery.DTO.csproj.CoreCompileInputs.cache
-C:\Projects\TripGallery\Src\TripGallery.DTO\obj\Debug\TripGallery.DTO.dll
-C:\Projects\TripGallery\Src\TripGallery.DTO\obj\Debug\TripGallery.DTO.pdb
